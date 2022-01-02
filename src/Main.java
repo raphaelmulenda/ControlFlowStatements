@@ -10,7 +10,8 @@ public class Main {
         //LastDigitChecker.isValid(9);
        // LastDigitChecker.hasSameLastDigit(10,20,15);
         //GreatestCommonDivisor.getGreatestCommonDivisor(12,30);
-        AllFactors.printFactors(10);
+        //AllFactors.printFactors(10);
+        PerfectNumber.isPerfectNumber(28);
 
     }
 }
