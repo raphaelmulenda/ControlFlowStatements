@@ -12,7 +12,8 @@ public class Main {
         //GreatestCommonDivisor.getGreatestCommonDivisor(12,30);
         //AllFactors.printFactors(10);
         //PerfectNumber.isPerfectNumber(28);
-        FlourPacker.canPack(1,6,7);
+       // FlourPacker.canPack(1,6,7);
+        InputCalculator.inputThenPrintSumAndAverage();
 
     }
 }
